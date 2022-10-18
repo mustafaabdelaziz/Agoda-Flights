@@ -4,7 +4,7 @@ I am a fresh graduate from the faculty of Computers and Artificial intelligence 
 
 Skills: Python/Excel/Power BI/Data Visualization/Pandas/sklearn/Numpy
 
-- 🔭 I’m currently working on An A/B Testing Project to major the effectiveness of changes performed on an E-commerce Website in order to increase the conversion rate of this webpage 
+- 🔭 I’m currently working on An Data analysis Project to derive insghts from data collected from a flight booking website, this data is about the trips distination, date, price, and more data.
 
 - 📫 How to reach me: mustafamabdelaziz@gmail.com 
 
